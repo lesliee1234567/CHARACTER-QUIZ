@@ -1,0 +1,34 @@
+h1{
+    color:#d93425;
+    font-family: 'Lobster', cursive;
+    text-decoration:underline;
+    
+}
+
+p{
+    color:#2104db;
+    font-family: 'Lobster Two', cursive;
+}
+
+img{
+    height:300px;
+    width:500px;
+}
+.power{
+    border-color:black;
+}
+.age{
+     border-color:black;
+}
+
+body{
+    background-color:#02a82b;
+}
+.hah{
+    border-color:black;
+    
+}
+.yay{
+    color:black;
+    border-radius:10px;
+}
